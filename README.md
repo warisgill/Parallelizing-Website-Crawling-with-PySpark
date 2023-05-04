@@ -1,4 +1,7 @@
-# Team Members
+# CS 5614: Big Data Engineering Final Project
+
+
+## Team Members
 
 Haddi Amjad, Thomas Stapor, Waris Gill, Ahmad Faraz Khan, Ali Raja
 
