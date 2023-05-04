@@ -1,3 +1,9 @@
+# Team Members
+
+Haddi Amjad, Thomas Stapor, Waris Gill, Ahmad Faraz Khan, Ali Raja
+
+
+
 # Apache Spark Standalone Cluster on Docker
 
 This standalone Spark cluster is adapted from **cluster-apps-on-docker/spark-standalone-cluster-on-docker**. Please follow these steps for a quick deployment of the cluster in your local machine.
